@@ -1,0 +1,15 @@
+{
+    "name":"aju",
+    "age": 28,
+    "language":["tamil","English","Malayalam"],
+    "address":{
+        "line1":"dsadsad",
+        "line2":"",
+        "line3":"",
+        "city":"",
+        "state":""
+
+    }
+
+
+}
